@@ -1,3 +1,4 @@
 ffmpeg_image_transport_msgs/FFMPEGPacket packet
 geometry_msgs/Transform left_transform
 geometry_msgs/Transform right_transform
+std_msgs/Header header
